@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 179 | 24 |
+| 184 | 24 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (3)
-- [binary search](#binary-search) (3)
+- [binary search](#binary-search) (4)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (28)
 - [constructive algorithms](#constructive-algorithms) (10)
@@ -26,14 +26,14 @@
 - [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (39)
+- [greedy](#greedy) (41)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (108)
-- [math](#math) (62)
+- [implementation](#implementation) (110)
+- [math](#math) (65)
 - [number theory](#number-theory) (10)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (2)
-- [sortings](#sortings) (21)
+- [sortings](#sortings) (23)
 - [strings](#strings) (30)
 - [two pointers](#two-pointers) (2)
 
@@ -60,6 +60,7 @@
 | 604B | [More Cowbell](https://codeforces.com/contest/604/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/604/B%20-%20More%20Cowbell/solution.cpp) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
+| 2051B | [Journey](https://codeforces.com/contest/2051/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2051/B%20-%20Journey/solution.cpp) |
 
 ### bitmasks
 
@@ -179,6 +180,7 @@
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [GNU C11](https://github.com/Tabin924/Problem-Solving/blob/HEAD/50/A%20-%20Domino%20piling/solution.c) |
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/160/A%20-%20Twins/solution.cpp) |
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/230/A%20-%20Dragons/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [GNU C11](https://github.com/Tabin924/Problem-Solving/blob/HEAD/231/A%20-%20Team/solution.c) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
@@ -212,6 +214,7 @@
 | 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.cpp) |
+| 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
@@ -233,6 +236,7 @@
 | 44A | [Indian Summer](https://codeforces.com/contest/44/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/44/A%20-%20Indian%20Summer/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [GNU C11](https://github.com/Tabin924/Problem-Solving/blob/HEAD/59/A%20-%20Word/solution.c) |
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/96/A%20-%20Football/solution.cpp) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [GNU C11](https://github.com/Tabin924/Problem-Solving/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.c) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [GNU C11](https://github.com/Tabin924/Problem-Solving/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.c) |
@@ -335,6 +339,7 @@
 | 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [GNU C11](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.c) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 | 2230A | [Optimal Purchase](https://codeforces.com/contest/2230/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2230/A%20-%20Optimal%20Purchase/solution.cpp) |
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 
 ### math
 
@@ -343,6 +348,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 9A | [Die Roll](https://codeforces.com/contest/9/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/9/A%20-%20Die%20Roll/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [GNU C11](https://github.com/Tabin924/Problem-Solving/blob/HEAD/50/A%20-%20Domino%20piling/solution.c) |
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [GNU C11](https://github.com/Tabin924/Problem-Solving/blob/HEAD/200/B%20-%20Drinks/solution.c) |
@@ -393,12 +399,14 @@
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
 | 2044A | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2044/A%20-%20Easy%20Problem/solution.cpp) |
+| 2051B | [Journey](https://codeforces.com/contest/2051/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2051/B%20-%20Journey/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.cpp) |
 | 2230A | [Optimal Purchase](https://codeforces.com/contest/2230/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2230/A%20-%20Optimal%20Purchase/solution.cpp) |
+| 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
@@ -436,6 +444,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.cpp) |
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/160/A%20-%20Twins/solution.cpp) |
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/230/A%20-%20Dragons/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.cpp) |
@@ -455,6 +464,7 @@
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ### strings
