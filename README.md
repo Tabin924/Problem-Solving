@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 5 |
+| 3 | 6 |
 
 ---
 
@@ -16,6 +16,7 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (2)
+- [math](#math) (1)
 - [strings](#strings) (1)
 
 ---
@@ -44,6 +45,12 @@
 |---|---------|------------|----------|
 | 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1955A | [Yogurt Sale](https://codeforces.com/contest/1955/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/1955/A%20-%20Yogurt%20Sale/solution.cpp) |
 
 ### strings
 
