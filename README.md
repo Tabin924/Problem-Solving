@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 6 |
+| 6 | 7 |
 
 ---
 
@@ -14,9 +14,10 @@
 
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (3)
 - [math](#math) (2)
+- [sortings](#sortings) (1)
 - [strings](#strings) (1)
 
 ---
@@ -37,6 +38,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/230/A%20-%20Dragons/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 
 ### implementation
@@ -53,6 +55,12 @@
 |---|---------|------------|----------|
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/318/A%20-%20Even%20Odds/solution.cpp) |
 | 1955A | [Yogurt Sale](https://codeforces.com/contest/1955/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/1955/A%20-%20Yogurt%20Sale/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Tabin924/Problem-Solving/blob/HEAD/230/A%20-%20Dragons/solution.cpp) |
 
 ### strings
 
